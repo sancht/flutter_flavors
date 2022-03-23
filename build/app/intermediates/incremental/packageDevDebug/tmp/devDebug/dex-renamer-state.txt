@@ -1,0 +1,4 @@
+#Thu Mar 24 02:49:52 IST 2022
+base.0=/Users/netgables/AndroidStudioProjects/flutter_flavours/build/app/intermediates/dex/devDebug/mergeDexDevDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

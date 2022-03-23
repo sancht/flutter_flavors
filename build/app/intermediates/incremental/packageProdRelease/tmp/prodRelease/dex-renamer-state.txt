@@ -1,0 +1,4 @@
+#Thu Mar 24 03:40:38 IST 2022
+base.0=/Users/netgables/AndroidStudioProjects/flutter_flavours/build/app/intermediates/dex/prodRelease/minifyProdReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
